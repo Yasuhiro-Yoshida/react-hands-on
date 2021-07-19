@@ -1,7 +1,6 @@
 import React, { useEffect, useState } from "react";
 import { ColorfulMessage } from "./components/ColorfulMessage";
 const App = () => {
-  console.log("最初");
   const onClickCountUp = () => {
     setNum(num + 1);
   };
