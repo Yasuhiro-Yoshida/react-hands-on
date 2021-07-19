@@ -1,2 +1,2 @@
-# react-hands-on
+# react-introduction
 Created with CodeSandbox
